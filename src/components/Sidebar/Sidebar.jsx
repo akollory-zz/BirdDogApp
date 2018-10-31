@@ -47,10 +47,10 @@ class Sidebar extends Component {
             </div>
           </a>
           <a
-            href="https://www.creative-tim.com"
+            href="http://getbirddogapp.com"
             className="simple-text logo-normal"
           >
-            Creative Tim
+            Bird Dog
           </a>
         </div>
         <div className="sidebar-wrapper">

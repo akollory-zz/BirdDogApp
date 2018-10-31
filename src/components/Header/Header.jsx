@@ -11,7 +11,7 @@ class Header extends Component {
     this.mobileSidebarToggle = this.mobileSidebarToggle.bind(this);
     this.state = {
       sidebarExists: false
-    };
+    }; 
   }
   mobileSidebarToggle(e) {
     if (this.state.sidebarExists === false) {
