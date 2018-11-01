@@ -13,19 +13,6 @@ It comes with 6 filter colors for the sidebar (`black`, `azure`,`green`,`orange`
 
 + [Live Preview](http://lbd-react.creative-tim.com/)
 
-## Quick Start:
-
-Quick start options:
-
-+ [Download from Github](https://github.com/creativetimofficial/light-bootstrap-dashboard-react/archive/master.zip).
-+ [Download from Creative Tim](https://www.creative-tim.com/product/light-bootstrap-dashboard-react).
-+ Clone the repo: `git clone https://github.com/creativetimofficial/light-bootstrap-dashboard-react.git`.
-
-Other Products:
-
-+ [Download HTML Version](https://www.creative-tim.com/product/light-bootstrap-dashboard).
-+ [Download Angular 2+ Version ](https://www.creative-tim.com/product/light-bootstrap-dashboard-angular2).
-
 ## Terminal Commands
 
 1. Install NodeJs from [NodeJs Official Page](https://nodejs.org/en).
@@ -141,6 +128,3 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 [CHANGELOG]: ./CHANGELOG.md
 
-[LICENSE]: ./LICENSE.md
-[version-badge]: https://img.shields.io/badge/version-1.2.0-blue.svg
-[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
